@@ -17,10 +17,6 @@
     --header-offset: 110px;
 }
 
-html {
-    scroll-behavior: smooth;
-}
-
 body {
     font-family: 'Poppins', sans-serif;
     color: var(--cor-texto);
